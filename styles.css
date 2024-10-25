@@ -7,13 +7,13 @@ body {
 
 header {
     background-color: #f4f4f4;
-    color: #f4f4f4 ;
+    color: #727370 ;
     padding: 15px;
     text-align: center;
 }
 
 header nav a {
-    color: #f4f4f4;
+    color: #727370;
     margin: 0 15px;
     text-decoration: none;
 }
